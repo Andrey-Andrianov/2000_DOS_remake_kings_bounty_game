@@ -9,5 +9,6 @@ The game was written for the MS-DOS platform in Borland Pascal 7.0. The graphics
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)
 
 There are some screenshots if a gameplay:
+
 ![Screenshots of a gameplay](screenshots.gif)
 
