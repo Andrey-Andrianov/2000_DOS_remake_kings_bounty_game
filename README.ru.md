@@ -124,4 +124,4 @@
 
 ## Играть в браузере
 
-[Играть](game.html)
+[Играть](https://orky.name/aa/jsdos/index.html)
