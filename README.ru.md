@@ -124,4 +124,4 @@
 
 # Играть в браузере
 
-[Играть](https://orky.name/aa/jsdos/index.html)
+[Играть](https://andrey-andrianov.github.io/sites/jsdos/knight.html)
