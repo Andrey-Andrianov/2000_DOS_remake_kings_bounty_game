@@ -77,7 +77,7 @@ the villain lives if you went there before. If you take the castle with the vill
 move to another castle. If you rent a boat, you can sail on it by water, but you will have to pay 500 gold per week for this and more
 500 upon purchase. A catapult is needed when capturing a castle in order to break through the wall. In the city, you can buy one of 14 spells:
 
-## Camping Spells
+## Travel Spells
 
   1) Bridge (Sets a bridge with a length of Magic Power)
   2) Stop Time (Stops time for a certain number of steps)
